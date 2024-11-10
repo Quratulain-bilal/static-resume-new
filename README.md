@@ -31,10 +31,3 @@ Copy code
 cd static-resume-builder
 Open the index.html file in your web browser to view the project.
 
-Usage
-Fill out the input fields with your personal information, skills, and experience.
-Customize your resume using the available template styles.
-Click the "Generate Resume" button to preview your resume.
-Use the "Download Resume" button to save your resume as a PDF.
-Toggle the visibility of skills and languages sections as needed.
-Contributing
